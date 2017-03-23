@@ -9,4 +9,4 @@ COPY . /app
 #run the nodejs app
 CMD node index.js
 #expose port 8191 to the outside once the container has launched
-EXPOSE 8191
+EXPOSE 8192
