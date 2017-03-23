@@ -5,7 +5,7 @@ var app = express()
 //HTTP Requests
 app.get('/', function(req, res){
 	console.log("running in docker")
-	res.send('Hello World Venkata')
+	res.send('Hello World Venkata in heroku')
 })
 
 //launch listenening on port 8191
