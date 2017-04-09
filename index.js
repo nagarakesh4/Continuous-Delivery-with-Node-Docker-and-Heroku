@@ -5,7 +5,7 @@ var app = express()
 //HTTP Requests
 app.get('/', function(req, res){
 	console.log("running in docker")
-	res.send('Hello World Venkata in CloudFoundry')
+	res.send('Hello World Venkata, this build is deployed in app.buddyworks which pushes to docker hub and also triggers heroku build, the other is  in CloudFoundry')
 })
 
 //launch listenening on port 8191
