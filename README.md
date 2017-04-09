@@ -9,3 +9,5 @@ There is a buddy build running for this repo, commits to this repo will trigger 
 ### build to update heroku app (beta) 
 
 local mac /buddyworks
+
+![alt tag](https://travis-ci.org/nagarakesh4/symmetrical-octo-train.svg?branch=master)
