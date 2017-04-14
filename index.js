@@ -9,6 +9,6 @@ app.get('/', function(req, res){
 })
 
 //launch listenening on port 8191
-app.listen(8192, function(){
-	console.log('listening on port 8192')
+app.listen(process.env.PORT || 8192, function(){
+	console.log('listening on port ' + process.env.PORT + ' or 8192');
 })
