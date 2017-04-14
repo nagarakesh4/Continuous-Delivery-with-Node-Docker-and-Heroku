@@ -10,4 +10,5 @@ There is a buddy build running for this repo, commits to this repo will trigger 
 
 local mac /buddyworks
 
-![alt tag](https://travis-ci.org/nagarakesh4/symmetrical-octo-train.svg?branch=master)
+![Travis build status](https://travis-ci.org/nagarakesh4/symmetrical-octo-train.svg?branch=master)
+![buddy build status](https://app.buddy.works/coolrafa/symmetrical-octo-train/pipelines/pipeline/46903/badge.svg?token=12437fafb0352eb16c39e2f3bd47428b94849a24f5d5e254671dbc3bc1c498ce)
