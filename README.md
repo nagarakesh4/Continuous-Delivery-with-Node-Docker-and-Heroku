@@ -17,4 +17,4 @@ Build Status:
 
 App running:
 
-[<img src="http://qutheory.io/images/heroku.png">](https://cd-ndh.herokuapp.com/)
+[<img src="http://qutheory.io/images/heroku.png">](https://cd-ndh.herokuapp.com/){:target="blank"}
