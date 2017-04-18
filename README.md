@@ -17,4 +17,6 @@ Build Status:
 
 App running:
 
-[<img src="http://qutheory.io/images/heroku.png">](https://cd-ndh.herokuapp.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_di_Heroku.png">](https://cd-ndh.herokuapp.com/)
+
+[![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=nagarakesh4&repoName=Continuous-Delivery-with-Node-Docker-and-Heroku&branch=master&pipelineName=Continuous-Delivery-with-Node-Docker-and-Heroku&accountName=nagarakesh4&type=cf-1)]( https://g.codefresh.io/repositories/nagarakesh4/Continuous-Delivery-with-Node-Docker-and-Heroku/builds?filter=trigger:build;branch:master;service:58f5ffbc24f7b201009a562a~Continuous-Delivery-with-Node-Docker-and-Heroku)
